@@ -25,7 +25,19 @@ border-color: #bcc4c9;
   background-position: center;
 }
 
+.fondo-mistrabajos{
+  background-color: #404649;
+}
+
+.btn-mistrabajos {
+  background-color: #404649;
+  border-color: #bcc4c9;
+  color: white;
+ 
+  border-radius: .25rem;
+}
 /* Contacto */
+
 
 #Contacto form label {
   font-weight: 700;
